@@ -1,0 +1,3 @@
+Please place the downloaded '.h5 ' format dataset file in this directory.
+
+url: https://6th42r-my.sharepoint.com/:u:/g/personal/pingping_6th42r_onmicrosoft_com/ERGHtQRJpElOhy04iIXY8VYBHanEeCXdFzNB-iP55XiPRA?e=l1KSN8
